@@ -1,0 +1,28 @@
+run:
+Enter name of the company: 
+Google
+Enter the number of shares held: 
+4
+Enter the dollar portion of the share price: 
+5
+Enter the eiths portion of the share price: 
+4
+Company Name: Google
+Number of Shares: 4
+Opening Price Per Share: 5 4/8
+Opening portfolio value: $22.00
+Enter the change in dollar portion of the share price: 
+3
+Enter the change in eiths portion of the share price: 
+4
+Changing share price: 3 4/8
+Closing share price: 9 0/8
+Closing portfolio value: $36.00
+Enter the change in dollar portion of the share price: 
+3
+Enter the change in eiths portion of the share price: 
+4
+Changing share price: 3 4/8
+Closing share price: 12 4/8
+Closing portfolio value: $50.00
+BUILD SUCCESSFUL (total time: 36 seconds)
